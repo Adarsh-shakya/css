@@ -1,0 +1,16 @@
+.mrg{
+    border: 3px solid red;
+    padding: 70px 50px;
+}
+body{
+    border: 5px dotted black;
+}
+#mid{
+    
+    margin: -30px auto ;
+    width: 50%;
+
+}
+#last{
+    margin-top: 60px;
+}
