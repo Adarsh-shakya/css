@@ -1,0 +1,22 @@
+#p1{
+    border-style:solid double dashed dotted ;
+    border-width: 4px;
+    border-top-color: crimson;
+    border-bottom-color: crimson;
+    border-left-color:gold ;
+    border-right-color: gold;
+}
+#p2{
+    border-style:groove solid ridge solid;
+    border-width: 3px;
+    border-color: hotpink;
+}
+#p3{
+    border:5px solid indigo;
+    background-color: rgba(0, 225, 0, 0.5);
+    border-radius: 25%;
+}
+#B{
+    background-image:url("https://wallpaperheart.com/wp-content/uploads/2018/08/hd-desktop-wallpaper-9.jpg") ;
+    background-attachment: fixed;
+}
