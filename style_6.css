@@ -1,0 +1,20 @@
+#text{
+    border: 3px solid black;
+    color: blue;
+    width: 70%;
+    text-align: justify;
+    text-decoration: underline;
+    text-transform: capitalize;
+    line-height: 20px;
+    word-spacing: 6px;
+}
+img{
+    border: 2px solid red;
+    vertical-align: top;
+
+}
+p{
+    font-size: 150px;
+    text-align: center;
+    text-shadow: 20px  -10px 6px red;
+}
