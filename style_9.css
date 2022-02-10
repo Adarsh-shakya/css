@@ -1,0 +1,9 @@
+div{
+    border: 2px solid rebeccapurple;
+    cursor: all-scroll;
+    width: 300px;
+    margin: 100px;
+    padding: 30px;
+    background-color: aqua;
+    box-shadow: 10px 15px 5px 10px yellowgreen;
+}
