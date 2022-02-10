@@ -1,0 +1,20 @@
+.lin{
+    text-decoration: none;
+}
+.lin:link
+{
+   color: yellowgreen;
+
+}
+.lin:visited
+{
+ color: black;
+}
+.lin:hover
+{
+  color: aqua;
+}
+.lin:active
+{
+  color: red;
+}
