@@ -1,0 +1,10 @@
+#over1
+{
+    font-size: medium;
+    background-color:whitesmoke ;
+    border: 2px solid red;
+    height: 400px ;
+    width: 400px;
+    overflow: scroll;
+    resize: both;
+}
