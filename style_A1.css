@@ -1,0 +1,6 @@
+#div1
+{
+    height: 600px;
+    border: 5px solid red;
+    background-image: radial-gradient(red,blue,green,yellow);
+}
